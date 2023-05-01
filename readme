@@ -1,0 +1,14 @@
+python command for installing package for pip - py -m pip install <name package>
+
+picovoice access key for console - CLhQ60JK5sY7IGR1BSPeq4a4e+PIRGQ2lJVogYHEm3NtJaAAu/tcbQ==CLhQ60JK5sY7IGR1BSPeq4a4e+PIRGQ2lJVogYHEm3NtJaAAu/tcbQ==
+
+installed packages: 
+    picovoice,
+    pyaudio,
+    playsound,
+    pvporcupine,
+    vosk,
+
+Venv configuration -> new terminal(VS Code) or cd path to project -> venvironment\Scripts\activate (activate venv) -> after can to call <py -m pip install<name package>>
+deactivate - deactivate venv so
+
